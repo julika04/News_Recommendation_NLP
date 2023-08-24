@@ -1,11 +1,3 @@
 Coding by Julika Pradhan
 # News_Recommendation_NLP
-At present, the interest in news readers to access 
-millions of news articles from numerous websites is rapidly 
-increasing. News recommender systems shrink the information 
-overload problem and provide easy accessibility to the content 
-for users based on personalized interests. To solve this, I 
-extensively used natural language processing techniques to 
-categorize by topic name reflecting overall contents. I also 
-extracted sentiments indicating the positive or negative content
-to enable publications to work on their content refinement
+A new news recommendation system is crucial to tackle information overload, offering tailored news articles based on users' preferences and behavior. It ensures users stay informed with real-time updates, while also introducing them to diverse perspectives and topics they might have missed. By filtering misinformation and promoting ethical journalism, it enhances media literacy. Moreover, such systems drive engagement, retention, and revenue by delivering relevant content and advertisements, all while providing valuable insights into user behavior for news organizations to refine their strategies.
